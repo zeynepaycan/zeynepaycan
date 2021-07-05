@@ -9,7 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/zeynepaycaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zeynepaycaan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zeynepaycan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeynepaycan" height="30" width="40" /></a>
+<a href="https://kaggle.com/zeynepaycan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zeynepaycan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Frameworks</h3>
